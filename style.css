@@ -87,10 +87,16 @@ header p {
   padding: 32px 0 0 30px;
 }
 
-#kairan a {
+#kairan img {
+  margin-left: 50px;
+  margin-bottom: 5px;
+}
+
+#kairan p {
   display: inline-block;
+  text-align: center;
   margin: 0;
-  margin-top: 32px;
+  margin-top: 4px;
   margin-left: 50px;
   margin-bottom: 50px;
 }
@@ -108,7 +114,7 @@ header p {
   padding: 8px 0 0 50px;
 }
 
-img {
+#katudo img {
   margin-left: 50px;
   margin-bottom: 30px;
 }

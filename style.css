@@ -136,11 +136,17 @@ img {
   padding: 32px 0 32px 30px;
 }
 
-#bosai a {
+#bosai ol {
   margin: 0;
   margin-left: 80px;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
+}
+
+#bosai a {
   display: inline-block;
+  margin: 0;
+  margin-left: 10px;
+  margin-bottom: 30px;
 }
 
 #modoru {
